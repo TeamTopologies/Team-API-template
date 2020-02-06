@@ -32,8 +32,9 @@ Date:
 
 ### What we're currently working on
 
-* Services and code:
+* Our services and systems:
 * Ways of working: 
+* Wider cross-team or organisational improvements: 
 
 ### Teams we currently interact with
 
