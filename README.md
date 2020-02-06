@@ -27,12 +27,12 @@ Each team should answer the questions and fill in the details below. Remember th
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
 
 > Team Interaction Modes: (Collaboration, X-as-a-Service, Facilitating)
 
@@ -40,10 +40,10 @@ Each team should answer the questions and fill in the details below. Remember th
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
-|                 |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
+| .               |                  |         |          |
 
