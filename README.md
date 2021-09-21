@@ -16,26 +16,26 @@ Each team should answer the questions and fill in the details below. Remember th
 
 ## Team API
 
-Date: 
+Date:
 
-* Team name and focus: 
-* Team type: 
+* Team name and focus:
+* Team type:
 * Part of a Platform? (y/n) Details:
-* Do we provide a service to other teams? (y/n) Details: 
-* What kind of Service Level Expectations do other teams have of us? 
-* Software owned and evolved by this team: 
-* Versioning approaches: 
-* Wiki search terms: 
+* Do we provide a service to other teams? (y/n) Details:
+* What kind of Service Level Expectations do other teams have of us?
+* Software owned and evolved by this team:
+* Versioning approaches:
+* Wiki search terms:
 * Chat tool channels: #_____________ #_____________ #_____________
-* Time of daily sync meeting: 
+* Time of daily sync meeting:
 
 > Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
 
 ### What we're currently working on
 
 * Our services and systems:
-* Ways of working: 
-* Wider cross-team or organisational improvements: 
+* Ways of working:
+* Wider cross-team or organisational improvements:
 
 ### Teams we currently interact with
 
