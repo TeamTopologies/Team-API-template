@@ -8,7 +8,7 @@ A template for defining a Team API. Based on some of the ideas in the book _Team
 
 ## Overview
 
-To improve the clarity of purpose for teams it can be useful to define a "Team API" for each team. Use this template to help teams think about their Team API.
+It can be useful to define a "Team API" for each team, to improve the team's clarity of purpose and help other groups understand how that team fits into the broader organization. Use this template to help teams think about how they would define their Team API.
 
 ## How to use
 
