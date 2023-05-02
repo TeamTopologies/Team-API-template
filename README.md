@@ -1,6 +1,8 @@
 # Team API template
 
-A template for defining a Team API. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
+A template for defining a Team API. This is a description and specification that a team can define that tells others how to interact with that team.
+
+Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
 
 > See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topologies.
 
