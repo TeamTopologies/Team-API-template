@@ -63,3 +63,9 @@ Date:
 | .               |                  |         |          |
 | .               |                  |         |          |
 
+## Miro Template
+
+To help gather the information you could facilitate a session where everyone contributes to create your initial Team API.
+
+[Miro Template](https://miro.com/miroverse/team-topologies-team-api/) by [Radek Orszewski](https://www.linkedin.com/in/orszewski/)
+
